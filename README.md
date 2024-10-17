@@ -1,0 +1,1 @@
+This project implements a maze game using the PIC24 microcontroller. The objective is to guide a ball from the start to the finish line within a set time. Players tilt the board to navigate through the maze, avoiding walls and dead ends. The game features a 96x96 OLED display, adjustable difficulty levels, and a leaderboard for high scores.
