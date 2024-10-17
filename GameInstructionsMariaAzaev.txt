@@ -1,0 +1,11 @@
+Welcome to my game:
+
+1. First you must choose the difficulty level and the type of maze you want to play. 
+Pressing the S2 key will mark your selection and with the potentiometer you can scroll through the options.
+2. Now, the game starts according to your choices - pay attention to the timer, 
+as soon as it reaches 0 the game is over and you go back to the menu and you have the option to play again.
+3. In order to win the game you must reach the end point in the maze - the yellow dot.
+3. After finishing the game in any way (either because the time ran out or because you won) pressing S1 will return you to the menu if the time ran out. 
+If you win, pressing S1 will show you the score you earned during the game. Pressing S1 again will return you back to the menu.
+
+Good luck :)
